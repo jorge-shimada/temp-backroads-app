@@ -90,4 +90,14 @@ export const tours = [
     duration: "12",
     cost: "98000",
   },
+  {
+    id: 6,
+    image: tour6,
+    date: "december 18th, 2020",
+    title: "visiting a real reserve with wild animal",
+    info: "Explre Hong Kong and feel free to check the Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.",
+    location: "Ireland",
+    duration: "12",
+    cost: "45600",
+  },
 ];
